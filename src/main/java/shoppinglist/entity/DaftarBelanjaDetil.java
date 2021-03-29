@@ -16,7 +16,7 @@ import javax.persistence.Transient;
 
 /**
  *
- * @author irfin
+ * @author zefa
  */
 @Entity
 @Table(name = "daftarbelanjadetil")
@@ -116,4 +116,5 @@ public class DaftarBelanjaDetil
     {
         this.memo = _memo;
     }
+
 }

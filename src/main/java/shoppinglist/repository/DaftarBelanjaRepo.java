@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import shoppinglist.entity.DaftarBelanja;
 
 /**
- * @author irfin
+ * @author zefa
  */
 public interface DaftarBelanjaRepo extends JpaRepository<DaftarBelanja, Long>
 {

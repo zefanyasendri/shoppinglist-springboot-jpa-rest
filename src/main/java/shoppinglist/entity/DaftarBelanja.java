@@ -8,11 +8,12 @@ package shoppinglist.entity;
 import java.time.LocalDateTime;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Optional;
 import javax.persistence.*;
 
 /**
  *
- * @author irfin
+ * @author zefa
  */
 @Entity
 @Table(name = "daftarbelanja")
@@ -86,4 +87,5 @@ public class DaftarBelanja
 //        for (int i = 0; i < daftarBrg.size(); i++)
 //            daftarBrg.get(i).setInduk(this);
     }
+
 }

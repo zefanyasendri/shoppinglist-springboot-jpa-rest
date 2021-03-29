@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author irfin
+ * @author zefa
  */
 @Embeddable
 public class DaftarBelanjaDetilId implements Serializable
